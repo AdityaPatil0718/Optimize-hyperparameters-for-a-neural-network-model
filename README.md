@@ -4,7 +4,7 @@
 
 Optimize hyperparameters for a neural network model. Implement a hyperparameter optimization strategy and compare the performance with different hyperparameter configurations for both classification and regression tasks.
 
-**Theory: **
+**Theory:**
 
 Hyperparameters are the variables that determine the network structure (Eg: Number of Hidden Units) and the variables that determine how the network is trained (Eg: Learning Rate). Hyperparameters are set before training (before optimizing the weights and bias).
 
